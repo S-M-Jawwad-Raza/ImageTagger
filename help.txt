@@ -1,0 +1,11 @@
+# change to src directory (assuming you are in ImageTagger folder)
+cd src
+
+# compile all the files
+javac -cp ".:../lib/junit-platform-console-standalone-1.1.0-M1.jar" */*.java
+
+# to run the program
+java frontend.Main
+
+# to run the unittests
+java -jar "../lib/junit-platform-console-standalone-1.1.0-M1.jar" -cp "." --scan-class-path

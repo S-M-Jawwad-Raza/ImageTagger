@@ -1,0 +1,7 @@
+This Program was designed and developed by:
+Andrew Mihai;
+Sayyed Raza;
+Krishna Ravishankar;
+Ari Truanovsky;
+
+as the group project for CSC207H1f at the University of Toronto.

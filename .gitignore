@@ -1,0 +1,26 @@
+#ignore all complication files of .class
+*.class
+
+#ignore the intellij out directory
+out/
+
+#ignore the intellij file directory .idea
+.idea/
+
+#ignore any .iml files
+**.iml
+
+#ignore any tags.txt file
+tags.txt
+
+# ignore any log files
+*.log
+
+**javac.html
+
+**p2.html
+
+#ignore any .xml files
+*.xml
+
+.DS_Store
